@@ -50,7 +50,7 @@ export default defineNuxtConfig({
   // 构建配置
   nitro: {
     prerender: {
-      routes: ['/sitemap.xml']
+      routes: []
     }
   }
 })
