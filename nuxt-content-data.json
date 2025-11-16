@@ -1,0 +1,2851 @@
+[
+  {
+    "_path": "/articles/test",
+    "_dir": "articles",
+    "_draft": false,
+    "_partial": false,
+    "_locale": "",
+    "title": "test",
+    "description": "test",
+    "date": "2025-11-16",
+    "category": "frontend",
+    "tags": [],
+    "image": "",
+    "status": "published",
+    "readingTime": {
+      "text": "1 min read",
+      "minutes": 0.005,
+      "time": 300,
+      "words": 1
+    },
+    "body": {
+      "type": "root",
+      "children": [
+        {
+          "type": "element",
+          "tag": "p",
+          "props": {},
+          "children": [
+            {
+              "type": "text",
+              "value": "1"
+            }
+          ]
+        }
+      ],
+      "toc": {
+        "title": "",
+        "searchDepth": 2,
+        "depth": 2,
+        "links": []
+      }
+    },
+    "_type": "markdown",
+    "_id": "content:articles:test.md",
+    "_source": "content",
+    "_file": "articles/test.md",
+    "_stem": "articles/test",
+    "_extension": "md"
+  },
+  {
+    "_path": "/articles/test-new-article",
+    "_dir": "articles",
+    "_draft": false,
+    "_partial": false,
+    "_locale": "",
+    "title": "测试新文章",
+    "description": "这是一篇测试文章，用于验证发布功能",
+    "date": "2025-11-16",
+    "category": "frontend",
+    "tags": [
+      "测试",
+      "前端"
+    ],
+    "image": "",
+    "status": "published",
+    "readingTime": {
+      "text": "1 min read",
+      "minutes": 0.3,
+      "time": 18000,
+      "words": 60
+    },
+    "body": {
+      "type": "root",
+      "children": [
+        {
+          "type": "element",
+          "tag": "h1",
+          "props": {
+            "id": "测试新文章"
+          },
+          "children": [
+            {
+              "type": "text",
+              "value": "测试新文章"
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tag": "p",
+          "props": {},
+          "children": [
+            {
+              "type": "text",
+              "value": "这是测试文章内容，用于验证发布功能是否正常工作。"
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tag": "h2",
+          "props": {
+            "id": "测试内容"
+          },
+          "children": [
+            {
+              "type": "text",
+              "value": "测试内容"
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tag": "ul",
+          "props": {},
+          "children": [
+            {
+              "type": "element",
+              "tag": "li",
+              "props": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "测试列表项1"
+                }
+              ]
+            },
+            {
+              "type": "element",
+              "tag": "li",
+              "props": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "测试列表项2"
+                }
+              ]
+            },
+            {
+              "type": "element",
+              "tag": "li",
+              "props": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "测试列表项3"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tag": "p",
+          "props": {},
+          "children": [
+            {
+              "type": "element",
+              "tag": "strong",
+              "props": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "加粗文本"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": "和"
+            },
+            {
+              "type": "element",
+              "tag": "em",
+              "props": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "斜体文本"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": "测试。"
+            }
+          ]
+        }
+      ],
+      "toc": {
+        "title": "",
+        "searchDepth": 2,
+        "depth": 2,
+        "links": [
+          {
+            "id": "测试内容",
+            "depth": 2,
+            "text": "测试内容"
+          }
+        ]
+      }
+    },
+    "_type": "markdown",
+    "_id": "content:articles:test-new-article.md",
+    "_source": "content",
+    "_file": "articles/test-new-article.md",
+    "_stem": "articles/test-new-article",
+    "_extension": "md"
+  },
+  {
+    "_path": "/templates/css-guide",
+    "_dir": "templates",
+    "_draft": false,
+    "_partial": false,
+    "_locale": "",
+    "title": "CSS技巧指南",
+    "description": "适合CSS技巧和最佳实践类文章",
+    "name": "CSS指南",
+    "category": "css",
+    "tags": "CSS, 样式, 前端",
+    "readingTime": {
+      "text": "1 min read",
+      "minutes": 0.685,
+      "time": 41100,
+      "words": 137
+    },
+    "body": {
+      "type": "root",
+      "children": [
+        {
+          "type": "element",
+          "tag": "h1",
+          "props": {
+            "id": "css技巧指南"
+          },
+          "children": [
+            {
+              "type": "text",
+              "value": "CSS技巧指南"
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tag": "h2",
+          "props": {
+            "id": "背景"
+          },
+          "children": [
+            {
+              "type": "text",
+              "value": "背景"
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tag": "p",
+          "props": {},
+          "children": [
+            {
+              "type": "text",
+              "value": "介绍CSS技巧的背景..."
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tag": "h2",
+          "props": {
+            "id": "核心技巧"
+          },
+          "children": [
+            {
+              "type": "text",
+              "value": "核心技巧"
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tag": "h3",
+          "props": {
+            "id": "技巧1flexbox布局"
+          },
+          "children": [
+            {
+              "type": "text",
+              "value": "技巧1：Flexbox布局"
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tag": "pre",
+          "props": {
+            "className": "language-css shiki shiki-themes github-dark",
+            "code": ".container {\n  display: flex;\n  justify-content: center;\n  align-items: center;\n}\n",
+            "language": "css",
+            "meta": "",
+            "style": ""
+          },
+          "children": [
+            {
+              "type": "element",
+              "tag": "code",
+              "props": {
+                "__ignoreMap": ""
+              },
+              "children": [
+                {
+                  "type": "element",
+                  "tag": "span",
+                  "props": {
+                    "class": "line",
+                    "line": 1
+                  },
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "span",
+                      "props": {
+                        "style": "--shiki-default:#B392F0"
+                      },
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": ".container"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "span",
+                      "props": {
+                        "style": "--shiki-default:#E1E4E8"
+                      },
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": " {\n"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "span",
+                  "props": {
+                    "class": "line",
+                    "line": 2
+                  },
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "span",
+                      "props": {
+                        "style": "--shiki-default:#79B8FF"
+                      },
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": "  display"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "span",
+                      "props": {
+                        "style": "--shiki-default:#E1E4E8"
+                      },
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": ": "
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "span",
+                      "props": {
+                        "style": "--shiki-default:#79B8FF"
+                      },
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": "flex"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "span",
+                      "props": {
+                        "style": "--shiki-default:#E1E4E8"
+                      },
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": ";\n"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "span",
+                  "props": {
+                    "class": "line",
+                    "line": 3
+                  },
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "span",
+                      "props": {
+                        "style": "--shiki-default:#79B8FF"
+                      },
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": "  justify-content"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "span",
+                      "props": {
+                        "style": "--shiki-default:#E1E4E8"
+                      },
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": ": "
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "span",
+                      "props": {
+                        "style": "--shiki-default:#79B8FF"
+                      },
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": "center"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "span",
+                      "props": {
+                        "style": "--shiki-default:#E1E4E8"
+                      },
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": ";\n"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "span",
+                  "props": {
+                    "class": "line",
+                    "line": 4
+                  },
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "span",
+                      "props": {
+                        "style": "--shiki-default:#79B8FF"
+                      },
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": "  align-items"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "span",
+                      "props": {
+                        "style": "--shiki-default:#E1E4E8"
+                      },
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": ": "
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "span",
+                      "props": {
+                        "style": "--shiki-default:#79B8FF"
+                      },
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": "center"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "span",
+                      "props": {
+                        "style": "--shiki-default:#E1E4E8"
+                      },
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": ";\n"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "span",
+                  "props": {
+                    "class": "line",
+                    "line": 5
+                  },
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "span",
+                      "props": {
+                        "style": "--shiki-default:#E1E4E8"
+                      },
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": "}\n"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tag": "h3",
+          "props": {
+            "id": "技巧2grid布局"
+          },
+          "children": [
+            {
+              "type": "text",
+              "value": "技巧2：Grid布局"
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tag": "pre",
+          "props": {
+            "className": "language-css shiki shiki-themes github-dark",
+            "code": ".grid {\n  display: grid;\n  grid-template-columns: repeat(3, 1fr);\n  gap: 1rem;\n}\n",
+            "language": "css",
+            "meta": "",
+            "style": ""
+          },
+          "children": [
+            {
+              "type": "element",
+              "tag": "code",
+              "props": {
+                "__ignoreMap": ""
+              },
+              "children": [
+                {
+                  "type": "element",
+                  "tag": "span",
+                  "props": {
+                    "class": "line",
+                    "line": 1
+                  },
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "span",
+                      "props": {
+                        "style": "--shiki-default:#B392F0"
+                      },
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": ".grid"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "span",
+                      "props": {
+                        "style": "--shiki-default:#E1E4E8"
+                      },
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": " {\n"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "span",
+                  "props": {
+                    "class": "line",
+                    "line": 2
+                  },
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "span",
+                      "props": {
+                        "style": "--shiki-default:#79B8FF"
+                      },
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": "  display"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "span",
+                      "props": {
+                        "style": "--shiki-default:#E1E4E8"
+                      },
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": ": "
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "span",
+                      "props": {
+                        "style": "--shiki-default:#79B8FF"
+                      },
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": "grid"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "span",
+                      "props": {
+                        "style": "--shiki-default:#E1E4E8"
+                      },
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": ";\n"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "span",
+                  "props": {
+                    "class": "line",
+                    "line": 3
+                  },
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "span",
+                      "props": {
+                        "style": "--shiki-default:#79B8FF"
+                      },
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": "  grid-template-columns"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "span",
+                      "props": {
+                        "style": "--shiki-default:#E1E4E8"
+                      },
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": ": "
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "span",
+                      "props": {
+                        "style": "--shiki-default:#79B8FF"
+                      },
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": "repeat"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "span",
+                      "props": {
+                        "style": "--shiki-default:#E1E4E8"
+                      },
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": "("
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "span",
+                      "props": {
+                        "style": "--shiki-default:#79B8FF"
+                      },
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": "3"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "span",
+                      "props": {
+                        "style": "--shiki-default:#E1E4E8"
+                      },
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": ", "
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "span",
+                      "props": {
+                        "style": "--shiki-default:#79B8FF"
+                      },
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": "1"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "span",
+                      "props": {
+                        "style": "--shiki-default:#F97583"
+                      },
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": "fr"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "span",
+                      "props": {
+                        "style": "--shiki-default:#E1E4E8"
+                      },
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": ");\n"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "span",
+                  "props": {
+                    "class": "line",
+                    "line": 4
+                  },
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "span",
+                      "props": {
+                        "style": "--shiki-default:#79B8FF"
+                      },
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": "  gap"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "span",
+                      "props": {
+                        "style": "--shiki-default:#E1E4E8"
+                      },
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": ": "
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "span",
+                      "props": {
+                        "style": "--shiki-default:#79B8FF"
+                      },
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": "1"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "span",
+                      "props": {
+                        "style": "--shiki-default:#F97583"
+                      },
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": "rem"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "span",
+                      "props": {
+                        "style": "--shiki-default:#E1E4E8"
+                      },
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": ";\n"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "span",
+                  "props": {
+                    "class": "line",
+                    "line": 5
+                  },
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "span",
+                      "props": {
+                        "style": "--shiki-default:#E1E4E8"
+                      },
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": "}\n"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tag": "h3",
+          "props": {
+            "id": "技巧3响应式设计"
+          },
+          "children": [
+            {
+              "type": "text",
+              "value": "技巧3：响应式设计"
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tag": "pre",
+          "props": {
+            "className": "language-css shiki shiki-themes github-dark",
+            "code": "@media (max-width: 768px) {\n  .responsive {\n    flex-direction: column;\n  }\n}\n",
+            "language": "css",
+            "meta": "",
+            "style": ""
+          },
+          "children": [
+            {
+              "type": "element",
+              "tag": "code",
+              "props": {
+                "__ignoreMap": ""
+              },
+              "children": [
+                {
+                  "type": "element",
+                  "tag": "span",
+                  "props": {
+                    "class": "line",
+                    "line": 1
+                  },
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "span",
+                      "props": {
+                        "style": "--shiki-default:#F97583"
+                      },
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": "@media"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "span",
+                      "props": {
+                        "style": "--shiki-default:#E1E4E8"
+                      },
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": " ("
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "span",
+                      "props": {
+                        "style": "--shiki-default:#79B8FF"
+                      },
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": "max-width"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "span",
+                      "props": {
+                        "style": "--shiki-default:#E1E4E8"
+                      },
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": ": "
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "span",
+                      "props": {
+                        "style": "--shiki-default:#79B8FF"
+                      },
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": "768"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "span",
+                      "props": {
+                        "style": "--shiki-default:#F97583"
+                      },
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": "px"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "span",
+                      "props": {
+                        "style": "--shiki-default:#E1E4E8"
+                      },
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": ") {\n"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "span",
+                  "props": {
+                    "class": "line",
+                    "line": 2
+                  },
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "span",
+                      "props": {
+                        "style": "--shiki-default:#B392F0"
+                      },
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": "  .responsive"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "span",
+                      "props": {
+                        "style": "--shiki-default:#E1E4E8"
+                      },
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": " {\n"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "span",
+                  "props": {
+                    "class": "line",
+                    "line": 3
+                  },
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "span",
+                      "props": {
+                        "style": "--shiki-default:#79B8FF"
+                      },
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": "    flex-direction"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "span",
+                      "props": {
+                        "style": "--shiki-default:#E1E4E8"
+                      },
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": ": "
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "span",
+                      "props": {
+                        "style": "--shiki-default:#79B8FF"
+                      },
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": "column"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "span",
+                      "props": {
+                        "style": "--shiki-default:#E1E4E8"
+                      },
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": ";\n"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "span",
+                  "props": {
+                    "class": "line",
+                    "line": 4
+                  },
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "span",
+                      "props": {
+                        "style": "--shiki-default:#E1E4E8"
+                      },
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": "  }\n"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "span",
+                  "props": {
+                    "class": "line",
+                    "line": 5
+                  },
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "span",
+                      "props": {
+                        "style": "--shiki-default:#E1E4E8"
+                      },
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": "}\n"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tag": "h2",
+          "props": {
+            "id": "最佳实践"
+          },
+          "children": [
+            {
+              "type": "text",
+              "value": "最佳实践"
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tag": "h3",
+          "props": {
+            "id": "命名规范"
+          },
+          "children": [
+            {
+              "type": "text",
+              "value": "命名规范"
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tag": "ul",
+          "props": {},
+          "children": [
+            {
+              "type": "element",
+              "tag": "li",
+              "props": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "使用BEM命名法"
+                }
+              ]
+            },
+            {
+              "type": "element",
+              "tag": "li",
+              "props": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "保持命名一致性"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tag": "h3",
+          "props": {
+            "id": "性能优化"
+          },
+          "children": [
+            {
+              "type": "text",
+              "value": "性能优化"
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tag": "ul",
+          "props": {},
+          "children": [
+            {
+              "type": "element",
+              "tag": "li",
+              "props": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "减少选择器复杂度"
+                }
+              ]
+            },
+            {
+              "type": "element",
+              "tag": "li",
+              "props": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "使用CSS预处理器"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tag": "h2",
+          "props": {
+            "id": "常见陷阱"
+          },
+          "children": [
+            {
+              "type": "text",
+              "value": "常见陷阱"
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tag": "h3",
+          "props": {
+            "id": "陷阱1"
+          },
+          "children": [
+            {
+              "type": "text",
+              "value": "陷阱1"
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tag": "p",
+          "props": {},
+          "children": [
+            {
+              "type": "text",
+              "value": "说明常见陷阱..."
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tag": "h3",
+          "props": {
+            "id": "陷阱2"
+          },
+          "children": [
+            {
+              "type": "text",
+              "value": "陷阱2"
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tag": "p",
+          "props": {},
+          "children": [
+            {
+              "type": "text",
+              "value": "说明常见陷阱..."
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tag": "h2",
+          "props": {
+            "id": "总结"
+          },
+          "children": [
+            {
+              "type": "text",
+              "value": "总结"
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tag": "p",
+          "props": {},
+          "children": [
+            {
+              "type": "text",
+              "value": "总结CSS技巧要点..."
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tag": "style",
+          "props": {},
+          "children": [
+            {
+              "type": "text",
+              "value": "html .default .shiki span {color: var(--shiki-default);background: var(--shiki-default-bg);font-style: var(--shiki-default-font-style);font-weight: var(--shiki-default-font-weight);text-decoration: var(--shiki-default-text-decoration);}html .shiki span {color: var(--shiki-default);background: var(--shiki-default-bg);font-style: var(--shiki-default-font-style);font-weight: var(--shiki-default-font-weight);text-decoration: var(--shiki-default-text-decoration);}"
+            }
+          ]
+        }
+      ],
+      "toc": {
+        "title": "",
+        "searchDepth": 2,
+        "depth": 2,
+        "links": [
+          {
+            "id": "背景",
+            "depth": 2,
+            "text": "背景"
+          },
+          {
+            "id": "核心技巧",
+            "depth": 2,
+            "text": "核心技巧",
+            "children": [
+              {
+                "id": "技巧1flexbox布局",
+                "depth": 3,
+                "text": "技巧1：Flexbox布局"
+              },
+              {
+                "id": "技巧2grid布局",
+                "depth": 3,
+                "text": "技巧2：Grid布局"
+              },
+              {
+                "id": "技巧3响应式设计",
+                "depth": 3,
+                "text": "技巧3：响应式设计"
+              }
+            ]
+          },
+          {
+            "id": "最佳实践",
+            "depth": 2,
+            "text": "最佳实践",
+            "children": [
+              {
+                "id": "命名规范",
+                "depth": 3,
+                "text": "命名规范"
+              },
+              {
+                "id": "性能优化",
+                "depth": 3,
+                "text": "性能优化"
+              }
+            ]
+          },
+          {
+            "id": "常见陷阱",
+            "depth": 2,
+            "text": "常见陷阱",
+            "children": [
+              {
+                "id": "陷阱1",
+                "depth": 3,
+                "text": "陷阱1"
+              },
+              {
+                "id": "陷阱2",
+                "depth": 3,
+                "text": "陷阱2"
+              }
+            ]
+          },
+          {
+            "id": "总结",
+            "depth": 2,
+            "text": "总结"
+          }
+        ]
+      }
+    },
+    "_type": "markdown",
+    "_id": "content:templates:css-guide.md",
+    "_source": "content",
+    "_file": "templates/css-guide.md",
+    "_stem": "templates/css-guide",
+    "_extension": "md"
+  },
+  {
+    "_path": "/templates/learning-notes",
+    "_dir": "templates",
+    "_draft": false,
+    "_partial": false,
+    "_locale": "",
+    "title": "学习主题",
+    "description": "适合学习笔记类文章",
+    "name": "学习笔记",
+    "category": "thoughts",
+    "tags": "学习, 笔记",
+    "readingTime": {
+      "text": "1 min read",
+      "minutes": 0.495,
+      "time": 29700,
+      "words": 99
+    },
+    "body": {
+      "type": "root",
+      "children": [
+        {
+          "type": "element",
+          "tag": "h1",
+          "props": {
+            "id": "学习主题"
+          },
+          "children": [
+            {
+              "type": "text",
+              "value": "学习主题"
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tag": "h2",
+          "props": {
+            "id": "学习目标"
+          },
+          "children": [
+            {
+              "type": "text",
+              "value": "学习目标"
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tag": "ul",
+          "props": {},
+          "children": [
+            {
+              "type": "element",
+              "tag": "li",
+              "props": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "目标1"
+                }
+              ]
+            },
+            {
+              "type": "element",
+              "tag": "li",
+              "props": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "目标2"
+                }
+              ]
+            },
+            {
+              "type": "element",
+              "tag": "li",
+              "props": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "目标3"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tag": "h2",
+          "props": {
+            "id": "关键概念"
+          },
+          "children": [
+            {
+              "type": "text",
+              "value": "关键概念"
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tag": "h3",
+          "props": {
+            "id": "概念1"
+          },
+          "children": [
+            {
+              "type": "text",
+              "value": "概念1"
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tag": "p",
+          "props": {},
+          "children": [
+            {
+              "type": "text",
+              "value": "解释概念1..."
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tag": "h3",
+          "props": {
+            "id": "概念2"
+          },
+          "children": [
+            {
+              "type": "text",
+              "value": "概念2"
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tag": "p",
+          "props": {},
+          "children": [
+            {
+              "type": "text",
+              "value": "解释概念2..."
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tag": "h2",
+          "props": {
+            "id": "实践过程"
+          },
+          "children": [
+            {
+              "type": "text",
+              "value": "实践过程"
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tag": "h3",
+          "props": {
+            "id": "步骤1"
+          },
+          "children": [
+            {
+              "type": "text",
+              "value": "步骤1"
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tag": "p",
+          "props": {},
+          "children": [
+            {
+              "type": "text",
+              "value": "详细记录步骤1..."
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tag": "h3",
+          "props": {
+            "id": "步骤2"
+          },
+          "children": [
+            {
+              "type": "text",
+              "value": "步骤2"
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tag": "p",
+          "props": {},
+          "children": [
+            {
+              "type": "text",
+              "value": "详细记录步骤2..."
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tag": "h2",
+          "props": {
+            "id": "遇到的问题"
+          },
+          "children": [
+            {
+              "type": "text",
+              "value": "遇到的问题"
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tag": "p",
+          "props": {},
+          "children": [
+            {
+              "type": "text",
+              "value": "记录遇到的问题和解决方法..."
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tag": "h2",
+          "props": {
+            "id": "心得体会"
+          },
+          "children": [
+            {
+              "type": "text",
+              "value": "心得体会"
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tag": "p",
+          "props": {},
+          "children": [
+            {
+              "type": "text",
+              "value": "分享学习心得..."
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tag": "h2",
+          "props": {
+            "id": "下一步计划"
+          },
+          "children": [
+            {
+              "type": "text",
+              "value": "下一步计划"
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tag": "ul",
+          "props": {},
+          "children": [
+            {
+              "type": "element",
+              "tag": "li",
+              "props": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "计划1"
+                }
+              ]
+            },
+            {
+              "type": "element",
+              "tag": "li",
+              "props": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "计划2"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "toc": {
+        "title": "",
+        "searchDepth": 2,
+        "depth": 2,
+        "links": [
+          {
+            "id": "学习目标",
+            "depth": 2,
+            "text": "学习目标"
+          },
+          {
+            "id": "关键概念",
+            "depth": 2,
+            "text": "关键概念",
+            "children": [
+              {
+                "id": "概念1",
+                "depth": 3,
+                "text": "概念1"
+              },
+              {
+                "id": "概念2",
+                "depth": 3,
+                "text": "概念2"
+              }
+            ]
+          },
+          {
+            "id": "实践过程",
+            "depth": 2,
+            "text": "实践过程",
+            "children": [
+              {
+                "id": "步骤1",
+                "depth": 3,
+                "text": "步骤1"
+              },
+              {
+                "id": "步骤2",
+                "depth": 3,
+                "text": "步骤2"
+              }
+            ]
+          },
+          {
+            "id": "遇到的问题",
+            "depth": 2,
+            "text": "遇到的问题"
+          },
+          {
+            "id": "心得体会",
+            "depth": 2,
+            "text": "心得体会"
+          },
+          {
+            "id": "下一步计划",
+            "depth": 2,
+            "text": "下一步计划"
+          }
+        ]
+      }
+    },
+    "_type": "markdown",
+    "_id": "content:templates:learning-notes.md",
+    "_source": "content",
+    "_file": "templates/learning-notes.md",
+    "_stem": "templates/learning-notes",
+    "_extension": "md"
+  },
+  {
+    "_path": "/templates/performance-analysis",
+    "_dir": "templates",
+    "_draft": false,
+    "_partial": false,
+    "_locale": "",
+    "title": "性能问题分析",
+    "description": "适合性能分析和优化类文章",
+    "name": "性能分析",
+    "category": "performance",
+    "tags": "性能, 优化, 分析",
+    "readingTime": {
+      "text": "1 min read",
+      "minutes": 0.64,
+      "time": 38400,
+      "words": 128
+    },
+    "body": {
+      "type": "root",
+      "children": [
+        {
+          "type": "element",
+          "tag": "h1",
+          "props": {
+            "id": "性能问题分析"
+          },
+          "children": [
+            {
+              "type": "text",
+              "value": "性能问题分析"
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tag": "h2",
+          "props": {
+            "id": "问题背景"
+          },
+          "children": [
+            {
+              "type": "text",
+              "value": "问题背景"
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tag": "p",
+          "props": {},
+          "children": [
+            {
+              "type": "text",
+              "value": "描述性能问题的背景..."
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tag": "h2",
+          "props": {
+            "id": "性能指标"
+          },
+          "children": [
+            {
+              "type": "text",
+              "value": "性能指标"
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tag": "h3",
+          "props": {
+            "id": "关键指标"
+          },
+          "children": [
+            {
+              "type": "text",
+              "value": "关键指标"
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tag": "ul",
+          "props": {},
+          "children": [
+            {
+              "type": "element",
+              "tag": "li",
+              "props": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "加载时间："
+                }
+              ]
+            },
+            {
+              "type": "element",
+              "tag": "li",
+              "props": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "响应时间："
+                }
+              ]
+            },
+            {
+              "type": "element",
+              "tag": "li",
+              "props": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "内存使用："
+                }
+              ]
+            },
+            {
+              "type": "element",
+              "tag": "li",
+              "props": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "CPU使用率："
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tag": "h2",
+          "props": {
+            "id": "问题定位"
+          },
+          "children": [
+            {
+              "type": "text",
+              "value": "问题定位"
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tag": "h3",
+          "props": {
+            "id": "分析过程"
+          },
+          "children": [
+            {
+              "type": "text",
+              "value": "分析过程"
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tag": "p",
+          "props": {},
+          "children": [
+            {
+              "type": "text",
+              "value": "详细记录分析过程..."
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tag": "h3",
+          "props": {
+            "id": "瓶颈识别"
+          },
+          "children": [
+            {
+              "type": "text",
+              "value": "瓶颈识别"
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tag": "p",
+          "props": {},
+          "children": [
+            {
+              "type": "text",
+              "value": "识别性能瓶颈..."
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tag": "h2",
+          "props": {
+            "id": "优化方案"
+          },
+          "children": [
+            {
+              "type": "text",
+              "value": "优化方案"
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tag": "h3",
+          "props": {
+            "id": "方案一"
+          },
+          "children": [
+            {
+              "type": "text",
+              "value": "方案一"
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tag": "p",
+          "props": {},
+          "children": [
+            {
+              "type": "text",
+              "value": "详细说明优化方案一..."
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tag": "h3",
+          "props": {
+            "id": "方案二"
+          },
+          "children": [
+            {
+              "type": "text",
+              "value": "方案二"
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tag": "p",
+          "props": {},
+          "children": [
+            {
+              "type": "text",
+              "value": "详细说明优化方案二..."
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tag": "h2",
+          "props": {
+            "id": "效果验证"
+          },
+          "children": [
+            {
+              "type": "text",
+              "value": "效果验证"
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tag": "h3",
+          "props": {
+            "id": "优化前后对比"
+          },
+          "children": [
+            {
+              "type": "text",
+              "value": "优化前后对比"
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tag": "p",
+          "props": {},
+          "children": [
+            {
+              "type": "text",
+              "value": "对比优化前后的性能指标..."
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tag": "h2",
+          "props": {
+            "id": "总结建议"
+          },
+          "children": [
+            {
+              "type": "text",
+              "value": "总结建议"
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tag": "p",
+          "props": {},
+          "children": [
+            {
+              "type": "text",
+              "value": "总结优化经验..."
+            }
+          ]
+        }
+      ],
+      "toc": {
+        "title": "",
+        "searchDepth": 2,
+        "depth": 2,
+        "links": [
+          {
+            "id": "问题背景",
+            "depth": 2,
+            "text": "问题背景"
+          },
+          {
+            "id": "性能指标",
+            "depth": 2,
+            "text": "性能指标",
+            "children": [
+              {
+                "id": "关键指标",
+                "depth": 3,
+                "text": "关键指标"
+              }
+            ]
+          },
+          {
+            "id": "问题定位",
+            "depth": 2,
+            "text": "问题定位",
+            "children": [
+              {
+                "id": "分析过程",
+                "depth": 3,
+                "text": "分析过程"
+              },
+              {
+                "id": "瓶颈识别",
+                "depth": 3,
+                "text": "瓶颈识别"
+              }
+            ]
+          },
+          {
+            "id": "优化方案",
+            "depth": 2,
+            "text": "优化方案",
+            "children": [
+              {
+                "id": "方案一",
+                "depth": 3,
+                "text": "方案一"
+              },
+              {
+                "id": "方案二",
+                "depth": 3,
+                "text": "方案二"
+              }
+            ]
+          },
+          {
+            "id": "效果验证",
+            "depth": 2,
+            "text": "效果验证",
+            "children": [
+              {
+                "id": "优化前后对比",
+                "depth": 3,
+                "text": "优化前后对比"
+              }
+            ]
+          },
+          {
+            "id": "总结建议",
+            "depth": 2,
+            "text": "总结建议"
+          }
+        ]
+      }
+    },
+    "_type": "markdown",
+    "_id": "content:templates:performance-analysis.md",
+    "_source": "content",
+    "_file": "templates/performance-analysis.md",
+    "_stem": "templates/performance-analysis",
+    "_extension": "md"
+  },
+  {
+    "_path": "/templates/problem-solution",
+    "_dir": "templates",
+    "_draft": false,
+    "_partial": false,
+    "_locale": "",
+    "title": "问题描述",
+    "description": "适合记录问题和解决方案",
+    "name": "问题解决方案",
+    "category": "backend",
+    "tags": "问题, 解决方案",
+    "readingTime": {
+      "text": "1 min read",
+      "minutes": 0.46,
+      "time": 27600,
+      "words": 92
+    },
+    "body": {
+      "type": "root",
+      "children": [
+        {
+          "type": "element",
+          "tag": "h1",
+          "props": {
+            "id": "问题描述"
+          },
+          "children": [
+            {
+              "type": "text",
+              "value": "问题描述"
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tag": "h2",
+          "props": {
+            "id": "现象"
+          },
+          "children": [
+            {
+              "type": "text",
+              "value": "现象"
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tag": "p",
+          "props": {},
+          "children": [
+            {
+              "type": "text",
+              "value": "描述问题的具体现象..."
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tag": "h2",
+          "props": {
+            "id": "环境信息"
+          },
+          "children": [
+            {
+              "type": "text",
+              "value": "环境信息"
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tag": "ul",
+          "props": {},
+          "children": [
+            {
+              "type": "element",
+              "tag": "li",
+              "props": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "操作系统："
+                }
+              ]
+            },
+            {
+              "type": "element",
+              "tag": "li",
+              "props": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "软件版本："
+                }
+              ]
+            },
+            {
+              "type": "element",
+              "tag": "li",
+              "props": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "其他相关信息："
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tag": "h2",
+          "props": {
+            "id": "原因分析"
+          },
+          "children": [
+            {
+              "type": "text",
+              "value": "原因分析"
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tag": "p",
+          "props": {},
+          "children": [
+            {
+              "type": "text",
+              "value": "分析问题产生的原因..."
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tag": "h2",
+          "props": {
+            "id": "解决方案"
+          },
+          "children": [
+            {
+              "type": "text",
+              "value": "解决方案"
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tag": "h3",
+          "props": {
+            "id": "方案一"
+          },
+          "children": [
+            {
+              "type": "text",
+              "value": "方案一"
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tag": "p",
+          "props": {},
+          "children": [
+            {
+              "type": "text",
+              "value": "详细说明方案一..."
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tag": "h3",
+          "props": {
+            "id": "方案二"
+          },
+          "children": [
+            {
+              "type": "text",
+              "value": "方案二"
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tag": "p",
+          "props": {},
+          "children": [
+            {
+              "type": "text",
+              "value": "详细说明方案二..."
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tag": "h2",
+          "props": {
+            "id": "验证结果"
+          },
+          "children": [
+            {
+              "type": "text",
+              "value": "验证结果"
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tag": "p",
+          "props": {},
+          "children": [
+            {
+              "type": "text",
+              "value": "验证解决方案是否有效..."
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tag": "h2",
+          "props": {
+            "id": "总结"
+          },
+          "children": [
+            {
+              "type": "text",
+              "value": "总结"
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tag": "p",
+          "props": {},
+          "children": [
+            {
+              "type": "text",
+              "value": "总结经验教训..."
+            }
+          ]
+        }
+      ],
+      "toc": {
+        "title": "",
+        "searchDepth": 2,
+        "depth": 2,
+        "links": [
+          {
+            "id": "现象",
+            "depth": 2,
+            "text": "现象"
+          },
+          {
+            "id": "环境信息",
+            "depth": 2,
+            "text": "环境信息"
+          },
+          {
+            "id": "原因分析",
+            "depth": 2,
+            "text": "原因分析"
+          },
+          {
+            "id": "解决方案",
+            "depth": 2,
+            "text": "解决方案",
+            "children": [
+              {
+                "id": "方案一",
+                "depth": 3,
+                "text": "方案一"
+              },
+              {
+                "id": "方案二",
+                "depth": 3,
+                "text": "方案二"
+              }
+            ]
+          },
+          {
+            "id": "验证结果",
+            "depth": 2,
+            "text": "验证结果"
+          },
+          {
+            "id": "总结",
+            "depth": 2,
+            "text": "总结"
+          }
+        ]
+      }
+    },
+    "_type": "markdown",
+    "_id": "content:templates:problem-solution.md",
+    "_source": "content",
+    "_file": "templates/problem-solution.md",
+    "_stem": "templates/problem-solution",
+    "_extension": "md"
+  },
+  {
+    "_path": "/templates/tech-tutorial",
+    "_dir": "templates",
+    "_draft": false,
+    "_partial": false,
+    "_locale": "",
+    "title": "标题",
+    "description": "适合技术教程类文章",
+    "name": "技术教程",
+    "category": "frontend",
+    "tags": "教程, 技术",
+    "readingTime": {
+      "text": "1 min read",
+      "minutes": 0.315,
+      "time": 18900,
+      "words": 63
+    },
+    "body": {
+      "type": "root",
+      "children": [
+        {
+          "type": "element",
+          "tag": "h1",
+          "props": {
+            "id": "标题"
+          },
+          "children": [
+            {
+              "type": "text",
+              "value": "标题"
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tag": "h2",
+          "props": {
+            "id": "介绍"
+          },
+          "children": [
+            {
+              "type": "text",
+              "value": "介绍"
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tag": "p",
+          "props": {},
+          "children": [
+            {
+              "type": "text",
+              "value": "在这里写介绍内容..."
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tag": "h2",
+          "props": {
+            "id": "前提条件"
+          },
+          "children": [
+            {
+              "type": "text",
+              "value": "前提条件"
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tag": "ul",
+          "props": {},
+          "children": [
+            {
+              "type": "element",
+              "tag": "li",
+              "props": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "条件1"
+                }
+              ]
+            },
+            {
+              "type": "element",
+              "tag": "li",
+              "props": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "条件2"
+                }
+              ]
+            },
+            {
+              "type": "element",
+              "tag": "li",
+              "props": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "条件3"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tag": "h2",
+          "props": {
+            "id": "步骤"
+          },
+          "children": [
+            {
+              "type": "text",
+              "value": "步骤"
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tag": "h3",
+          "props": {
+            "id": "第一步"
+          },
+          "children": [
+            {
+              "type": "text",
+              "value": "第一步"
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tag": "p",
+          "props": {},
+          "children": [
+            {
+              "type": "text",
+              "value": "详细说明第一步..."
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tag": "h3",
+          "props": {
+            "id": "第二步"
+          },
+          "children": [
+            {
+              "type": "text",
+              "value": "第二步"
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tag": "p",
+          "props": {},
+          "children": [
+            {
+              "type": "text",
+              "value": "详细说明第二步..."
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tag": "h2",
+          "props": {
+            "id": "总结"
+          },
+          "children": [
+            {
+              "type": "text",
+              "value": "总结"
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tag": "p",
+          "props": {},
+          "children": [
+            {
+              "type": "text",
+              "value": "总结内容..."
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tag": "h2",
+          "props": {
+            "id": "参考资料"
+          },
+          "children": [
+            {
+              "type": "text",
+              "value": "参考资料"
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tag": "ul",
+          "props": {},
+          "children": [
+            {
+              "type": "element",
+              "tag": "li",
+              "props": {},
+              "children": [
+                {
+                  "type": "element",
+                  "tag": "a",
+                  "props": {
+                    "href": "url"
+                  },
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "链接1"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "element",
+              "tag": "li",
+              "props": {},
+              "children": [
+                {
+                  "type": "element",
+                  "tag": "a",
+                  "props": {
+                    "href": "url"
+                  },
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "链接2"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "toc": {
+        "title": "",
+        "searchDepth": 2,
+        "depth": 2,
+        "links": [
+          {
+            "id": "介绍",
+            "depth": 2,
+            "text": "介绍"
+          },
+          {
+            "id": "前提条件",
+            "depth": 2,
+            "text": "前提条件"
+          },
+          {
+            "id": "步骤",
+            "depth": 2,
+            "text": "步骤",
+            "children": [
+              {
+                "id": "第一步",
+                "depth": 3,
+                "text": "第一步"
+              },
+              {
+                "id": "第二步",
+                "depth": 3,
+                "text": "第二步"
+              }
+            ]
+          },
+          {
+            "id": "总结",
+            "depth": 2,
+            "text": "总结"
+          },
+          {
+            "id": "参考资料",
+            "depth": 2,
+            "text": "参考资料"
+          }
+        ]
+      }
+    },
+    "_type": "markdown",
+    "_id": "content:templates:tech-tutorial.md",
+    "_source": "content",
+    "_file": "templates/tech-tutorial.md",
+    "_stem": "templates/tech-tutorial",
+    "_extension": "md"
+  }
+]
